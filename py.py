@@ -10,3 +10,4 @@ def azua(string1):
 print(azua('11100000111000'))
 
 print(azua('5000478'))
+print("adding new lines")
