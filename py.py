@@ -8,3 +8,5 @@ def azua(string1):
     return x
 
 print(azua('11100000111000'))
+
+print(azua('5000478'))
